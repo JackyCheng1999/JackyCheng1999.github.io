@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiaqi Cheng / Personal Website"
+title                    : "Jiaqi Cheng Website"
 title_separator          : "-"
 name                     : &name "Jiaqi Cheng"
 description              : &description "personal description"
