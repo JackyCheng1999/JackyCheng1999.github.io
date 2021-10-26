@@ -17,4 +17,4 @@ author_profile: true
 
 ## [On Competitive Permutations for Set Cover by Intervals](http://jackycheng1999.github.io/files/interval_cover.pdf)
 
-by Jiaqi Cheng and Sariel Har-Peled
+Oct 26, by Jiaqi Cheng and Sariel Har-Peled
