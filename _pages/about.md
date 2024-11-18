@@ -16,6 +16,6 @@ redirect_from:
 
 My name is Jiaqi Cheng.
 
-I am a senior-year undergraduate student pursuing a degree in Computer Science at UIUC. I am lucky to be advised by venerable [Sariel Har-Peled](https://sarielhp.org/). My interest is in theoretical computer science, design and analysis of algorithms, and approximation algorithms.
+I am now a PhD student at University of Wisconsin, Madison. I am currently working with professor [Rishab Goyal](https://pages.cs.wisc.edu/~rishab/). My research focuses on the theoretical foundations of cryptography, especially proof systems, and the development of new protocols.
 
-More info to come.
+I graduated with a Bachelor's degree in Computer Science from UIUC, where I conducted research with professor [Sariel Har-Peled](https://sarielhp.org/), where we worked on computational geometry and approximation algorithms.
