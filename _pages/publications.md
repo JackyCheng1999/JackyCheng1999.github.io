@@ -15,6 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## [On Competitive Permutations for Set Cover by Intervals](http://jackycheng1999.github.io/files/interval_cover.pdf)
+## [On Competitive Permutations for Set Cover by Intervals](https://arxiv.org/pdf/2110.14528)
 
-Oct 26 2021, by Sariel Har-Peled and me
+Oct 26 2021, Jiaqi Cheng, Sariel Har-Peled
