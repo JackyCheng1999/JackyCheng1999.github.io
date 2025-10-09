@@ -14,7 +14,7 @@ redirect_from:
 
 
 
-My name is Jiaqi Cheng.
+This is Jiaqi Cheng [Google Scholar](https://scholar.google.com/citations?user=SZ4sYBwAAAAJ&hl=en).
 
 I am a third-year computer science PhD student at University of Wisconsin, Madison. I am fortunate to be advised by professor [Rishab Goyal](https://pages.cs.wisc.edu/~rishab/). My research focuses on the theoretical foundations of cryptography, particularly proof systems (fundamental to blockchain and cloud computing), and the development of new protocols.
 
