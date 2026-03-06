@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## [Multi-Hop Multi-Key Homomorphic Signatures with Context Hiding from Standard Assumptions](https://eprint.iacr.org/2024/931.pdf)
-In Submission\. Abtin Afshar, Jiaqi Cheng, Rishab Goyal
+PKC 2026\. Abtin Afshar, Jiaqi Cheng, Rishab Goyal
 
 ## [Encrypted RAM Delegation: Applications to Rate-1 Extractable Arguments, Homomorphic NIZKs, MPC, and more](https://eprint.iacr.org/2024/1806.pdf)
 In Submission\. Abtin Afshar, Jiaqi Cheng, Rishab Goyal, Aayush Yadav, Saikumar Yadugiri
