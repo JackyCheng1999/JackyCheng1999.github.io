@@ -27,4 +27,4 @@ ICALP 2025. Jiaqi Cheng, Rishab Goyal
 ASIACRYPT 2024. Foteini Baldimtsi, Jiaqi Cheng, Rishab Goyal, Aayush Yadav
 
 ## [On Competitive Permutations for Set Cover by Intervals](https://arxiv.org/pdf/2110.14528)
-Manuscript 2021. Jiaqi Cheng, Sariel Har-Peled
+Arxiv Preprint 2021. Jiaqi Cheng, Sariel Har-Peled
