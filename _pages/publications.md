@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## [Collusion-Resistant Constrained PRFs for Compute-&-Compare Predicates from LWE]
+## [Collusion-Resistant Constrained PRFs for Compute-&-Compare Predicates from LWE](https://jackycheng1999.github.io/publications/)
 CRYPTO 2026. Jiaqi Cheng, Rishab Goyal
 
 ## [Multi-Hop Multi-Key Homomorphic Signatures with Context Hiding from Standard Assumptions](https://eprint.iacr.org/2024/931.pdf)
